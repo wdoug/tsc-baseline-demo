@@ -1,8 +1,6 @@
-# TypeScript Starter
+# `tsc-baseline` demo
 
-This is a basic starter setup for new TypeScript projects.
-
-It is configured with some tools that I like to use: [TypeScript](https://www.typescriptlang.org/) (in strict mode) for the benefits of static types, [jest](https://jestjs.io) for testing, and [eslint](https://eslint.org) (with strict type rules) for linting, [prettier](https://prettier.io/) for formatting.
+This is a small little demo repo for [tsc-baseline](https://github.com/TimMikeladze/tsc-baseline)
 
 ## Setup
 
@@ -12,7 +10,6 @@ Setup steps:
 2. Make sure you have `npm` installed (this should be bundled with Node.js). You can check by running `npm -v`
 3. Clone this repo and cd into it
 4. Run `npm install`
-5. Run `npm run -s prepare`
 
 ## Testing
 
